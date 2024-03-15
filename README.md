@@ -1,6 +1,6 @@
 # PHP Design Patterns the Simple Way
 
-This repository contains a collection of PHP design patterns implemented in a simple and understandable manner. Design patterns are reusable solutions to common problems encountered in software design. They provide a structured approach to solving issues in software development, promoting code reusability, maintainability, and scalability.
+This repository contains a collection of PHP design patterns implemented simply and understandably. Design patterns are reusable solutions to common problems encountered in software design. They provide a structured approach to solving issues in software development, promoting code reusability, maintainability, and scalability.
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ git clone https://github.com/perisicnikola37/php-design-patterns-simple-way
 
 Navigate to the directory of the design pattern you're interested in and explore the code and accompanying explanations.
 
-Feel free to incorporate these design patterns into your own projects or use them as learning resources to deepen your understanding of software design principles.
+Feel free to incorporate these design patterns into your projects or use them as learning resources to deepen your understanding of software design principles.
 
 ## Contributing
 
@@ -45,4 +45,5 @@ Contributions are welcome! If you have any improvements or additional design pat
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](https://github.com/perisicnikola37/php-design-patterns-simple-way/blob/main/README.md).
+
