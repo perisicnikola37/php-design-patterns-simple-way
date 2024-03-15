@@ -45,5 +45,5 @@ Contributions are welcome! If you have any improvements or additional design pat
 
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/perisicnikola37/php-design-patterns-simple-way/blob/main/README.md).
+This repository is licensed under the [MIT License](https://github.com/perisicnikola37/php-design-patterns-simple-way/blob/master/README.md).
 
