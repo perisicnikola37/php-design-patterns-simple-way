@@ -1,0 +1,15 @@
+{
+    "name": "nikolaperisic/builder-pattern",
+    "autoload": {
+        "psr-4": {
+            "MyNamespace\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikola",
+            "email": "perisicnikola37@gmail.com"
+        }
+    ],
+    "require": {}
+}
