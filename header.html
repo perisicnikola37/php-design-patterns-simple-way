@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <?php echo $title; ?>
+    </title>
+    <style>
+        *,
+        html {
+            margin: 0;
+            padding: 0;
+            margin-left: 20px;
+            box-sizing: border-box;
+        }
+
+        header {
+            margin-left: -50px;
+            background-color: #000;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #fff;
+            font-style: italic;
+            transition: color 0.25s, font-style 0.25s;
+        }
+
+        a:hover {
+            color: #736FEC;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h4 style="color: #fff">Design patterns simple way
+        </h4>
+        <hr style="margin: 5px">
+        <h3 style="color: #fff">
+            <?php echo $title; ?>
+        </h3>
+    </header>
+</body>
+
+</html>
